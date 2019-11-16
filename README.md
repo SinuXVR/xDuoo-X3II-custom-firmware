@@ -17,6 +17,7 @@
 * All five DAC digital filters implemented (Sharp/Slow/Short Delay/Short Delay Slow/Super Slow Roll-off)
 * EQ adjust range extended to ±9dB
 * DSD noise fixed
+* SBC bluetooth codec overclocked to more than 600+ kbps
 
 # Installation guide
 
