@@ -17,12 +17,13 @@
 * All five DAC digital filters implemented (Sharp/Slow/Short Delay/Short Delay Slow/Super Slow Roll-off)
 * EQ adjust range extended to ±9dB
 * DSD noise fixed
-* SBC bluetooth codec overclocked to more than 600+ kbps
+* SBC XQ feature implemented ([see this article](http://soundexpert.org/articles/-/blogs/audio-quality-of-sbc-xq-bluetooth-audio-codec))
 
 # Installation guide
 
-Just place `update.upt` file on the root of SD card and launch `Firmware update` in system settings.
-If you want a larger font, use the `bigger_font_update.upt` file (don't forget to rename it to `update.upt` first).
+Just place [update.upt](update.upt) file on the root of SD card and launch `Firmware update` in system settings.
+If you want a larger font, use the [bigger_font_update.upt](bigger_font_update.upt) file (don't forget to rename it to `update.upt` first).
+If you have any trouble with bluetooth connection, try lower bitrate versions: [sbc_452kbps_update.upt](sbc_452kbps_update.upt) or [sbc_452kbps_bigger_font_update.upt](sbc_452kbps_bigger_font_update.upt).
 
 **Attention to Rockbox users:** you must go back to the stock 1.2 firmware first!
 
