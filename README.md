@@ -18,6 +18,7 @@
 * EQ adjust range extended to ±9dB
 * DSD noise fixed
 * SBC XQ feature implemented ([see this article](http://soundexpert.org/articles/-/blogs/audio-quality-of-sbc-xq-bluetooth-audio-codec))
+* Track count limit increased from 15k to 65k
 
 # Installation guide
 
