@@ -19,13 +19,12 @@
 * DSD noise fixed
 * SBC XQ feature implemented ([see this article](http://soundexpert.org/articles/-/blogs/audio-quality-of-sbc-xq-bluetooth-audio-codec))
 * Track count limit increased from 15k to 65k
+* AAC receiving and two-way LDAC implemented
 
 # Installation guide
 
 Just place [update.upt](update.upt) file on the root of SD card and launch `Firmware update` in system settings.
 If you want a larger font, use the [bigger_font_update.upt](bigger_font_update.upt) file (don't forget to rename it to `update.upt` first).
-If you have any trouble with bluetooth connection, try lower bitrate versions: [sbc_452kbps_update.upt](sbc_452kbps_update.upt) or [sbc_452kbps_bigger_font_update.upt](sbc_452kbps_bigger_font_update.upt).
-Also you can try to enable AptX in bluetooth settings and restart device, it reduces SBC bitrate to 341kbps.
 
 **Attention to Rockbox users:** you must go back to the stock 1.2 firmware first!
 
