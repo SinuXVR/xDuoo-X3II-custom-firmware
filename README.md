@@ -22,12 +22,15 @@
 * Two-way AAC
 * Two-way LDAC
 * LCD color gamma fixed
+* New splash screen
 
 # Installation guide
 
 Just place [update.upt](update.upt) file on the root of SD card and launch `Firmware update` in system settings.
 If you want a larger font, use the [bigger_font_update.upt](bigger_font_update.upt) file (don't forget to rename it to `update.upt` first).
 If you have any trouble with bluetooth connection - just disable LDAC & SBC XQ in bluetooth settings and restart your player.
+
+**Attention:** this eXtreme version overrides bluetooth mac address with `42:54:30:00:00:00`! To prevent this, disassemble firmware using ThemeTool and replace this address by yours in the end of `autoupdate/logo.bin` file.
 
 **Attention to Rockbox users:** you must go back to the stock 1.2 firmware first!
 
