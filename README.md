@@ -19,9 +19,10 @@
 * DSD noise fixed
 * Track count limit increased from 15k to 65k
 * SBC XQ feature implemented ([see this article](http://soundexpert.org/articles/-/blogs/audio-quality-of-sbc-xq-bluetooth-audio-codec))
-* Two-way AAC
-* Two-way LDAC
+* Two-way AAC (Tx: AAC-LC, CBR 256kbps, 20kHz bandwidth; Rx: controlled by source)
+* Two-way LDAC (Tx: LDAC HQ 909/990kbps, Rx: controlled by source)
 * LCD color gamma fixed
+* Native sampling rate support up to 384kHz
 
 # Installation guide
 
