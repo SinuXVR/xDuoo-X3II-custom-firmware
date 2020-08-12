@@ -6,6 +6,8 @@
 
 ![Preview](img/img3.png)
 
+![Preview](img/img4.png)
+
 # Features
 
 * English and Russian languages improvements
@@ -34,6 +36,16 @@ If you have any trouble with bluetooth connection - just disable LDAC & SBC XQ i
 **Attention:** this eXtreme version overrides bluetooth mac address with `42:54:30:00:00:00`! To prevent this, disassemble firmware using ThemeTool and replace this address by yours in the end of `autoupdate/logo.bin` file.
 
 **Attention to Rockbox users:** you must go back to the stock 1.2 firmware first!
+
+# Additional Themes
+
+Extract `.themes` folder from [themes.zip](themes.zip) to the root of SD card and just switch theme in settings menu.
+
+![Preview](img/img5.png)
+
+![Preview](img/img6.png)
+
+![Preview](img/img7.png)
 
 # Ways to support me
 
