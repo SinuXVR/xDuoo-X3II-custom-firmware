@@ -6,6 +6,8 @@
 
 ![Preview](img/img3.png)
 
+![Preview](img/img4.png)
+
 # Features
 
 * English and Russian languages improvements
@@ -31,6 +33,16 @@ If you want a larger font, use the [bigger_font_update.upt](bigger_font_update.u
 If you have any trouble with bluetooth connection - just disable LDAC & SBC XQ in bluetooth settings and restart your player.
 
 **Attention to Rockbox users:** you must go back to the stock 1.2 firmware first!
+
+# Additional Themes
+
+Extract `.themes` folder from [themes.zip](themes.zip) to the root of SD card and just switch theme in settings menu.
+
+![Preview](img/img5.png)
+
+![Preview](img/img6.png)
+
+![Preview](img/img7.png)
 
 # Ways to support me
 
