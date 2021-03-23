@@ -44,6 +44,12 @@ Extract `.themes` folder from [themes.zip](themes.zip) to the root of SD card an
 
 ![Preview](img/img7.png)
 
+# 3D printable protection case
+
+[STL files](3D_printable_case.zip)
+
+![Preview](img/img8.jpg)
+
 # Ways to support me
 
 If you liked my firmware, feel free to say "Thank you" :blush:
